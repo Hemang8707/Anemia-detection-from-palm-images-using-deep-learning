@@ -1,7 +1,7 @@
 # Anemia-detection-from-palm-images-using-deep-learning
 
 
-Clone the repository as git clone ""
+Clone the repository as git clone "URL"
 
 Run the main.py file 
 
